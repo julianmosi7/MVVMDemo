@@ -1,0 +1,5 @@
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Projekt14\MvvmDemo\ArtistModelLib\bin\Debug\ArtistModelLib.dll
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Projekt14\MvvmDemo\ArtistModelLib\bin\Debug\ArtistModelLib.pdb
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Projekt14\MvvmDemo\ArtistModelLib\obj\Debug\ArtistModelLib.csprojAssemblyReference.cache
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Projekt14\MvvmDemo\ArtistModelLib\obj\Debug\ArtistModelLib.dll
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Projekt14\MvvmDemo\ArtistModelLib\obj\Debug\ArtistModelLib.pdb

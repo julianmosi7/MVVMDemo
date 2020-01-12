@@ -1,0 +1,11 @@
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Projekt14\MvvmDemo\ArtistViewModelLib\bin\Debug\ArtistViewModelLib.dll
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Projekt14\MvvmDemo\ArtistViewModelLib\bin\Debug\ArtistViewModelLib.pdb
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Projekt14\MvvmDemo\ArtistViewModelLib\bin\Debug\ArtistModelLib.dll
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Projekt14\MvvmDemo\ArtistViewModelLib\bin\Debug\MVVM.Tools.dll
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Projekt14\MvvmDemo\ArtistViewModelLib\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Projekt14\MvvmDemo\ArtistViewModelLib\bin\Debug\ArtistModelLib.pdb
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Projekt14\MvvmDemo\ArtistViewModelLib\bin\Debug\MVVM.Tools.pdb
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Projekt14\MvvmDemo\ArtistViewModelLib\obj\Debug\ArtistViewModelLib.csprojAssemblyReference.cache
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Projekt14\MvvmDemo\ArtistViewModelLib\obj\Debug\ArtistViewModelLib.csproj.CopyComplete
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Projekt14\MvvmDemo\ArtistViewModelLib\obj\Debug\ArtistViewModelLib.dll
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Projekt14\MvvmDemo\ArtistViewModelLib\obj\Debug\ArtistViewModelLib.pdb

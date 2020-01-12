@@ -1,0 +1,36 @@
+  public class Artist
+  {
+    public string Name { get; set; }
+    public List<Song> Songs { get; set; } = new List<Song>();
+    public override string ToString()=> Name;
+  }
+
+  public class Song
+  {
+    public string Name { get; set; }
+    public virtual Artist Artist { get; set; }
+    public override string ToString() => Name;
+  }
+
+  public class ModelContext
+  {
+    public List<Artist> Artists => new List<Artist>
+      {
+        GetAristWithSongs("Yello", "Bostich", "Domingo", "I Love You"),
+        GetAristWithSongs("OMD", "Enola Gay", "Electricity", "Genetic Engineering"),
+        GetAristWithSongs("Ultravox", "Vienna", "The Wall", "Reap The Wild Wind", "Astradyne"),
+        GetAristWithSongs("Yazoo", "Don't Go", "Nobody's Diary", "Goodbye Seventies", "Only You")
+      };
+
+    private Artist GetAristWithSongs(string artistName, params string[] songNames)
+    {
+      var artist = new Artist { Name = artistName };
+      songNames.ToList()
+               .ForEach(item => artist.Songs.Add(new Song
+               {
+                 Name = item,
+                 Artist = artist
+               }));
+      return artist;
+    }
+  }
